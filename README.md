@@ -1,5 +1,4 @@
-# Face Detection and Distance-Based Clustering  
-### Lab 5 – Spring 2026
+# Lab 5 – Spring 2026
 
 ---
 
@@ -16,22 +15,6 @@ The objective is to:
 - Visualize clustering results
 
 The implementation is done in **Python using OpenCV and Scikit-learn**.
-
----
-
-## 📁 Repository Structure
-
-```
-.
-├── Dr_Shashi_Tharoor.jpg
-├── Lab 5-Spring 2026.ipynb
-├── Lab 5-Spring 2026.pdf
-├── Plaksha_Faculty.pdf
-├── training_output.png
-├── training_cluster_output.png
-├── template_cluster_output.png
-├── template_prediction_output.png
-```
 
 ---
 
