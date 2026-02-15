@@ -37,6 +37,8 @@ The implementation is done in **Python using OpenCV and Scikit-learn**.
 - Detected faces and drew bounding boxes.
 
 **Output:**
+![Face Detected](Faculty_Face_Detected.png)
+
 
 ![Training Output](training_output.png)
 
