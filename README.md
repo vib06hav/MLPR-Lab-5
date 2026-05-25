@@ -130,6 +130,10 @@ This lab demonstrates:
 
 The workflow successfully identifies and clusters faces based on color features and classifies new input images accordingly.
 
+## Sync Validation Note
+
+This README line was added to validate the repo-understanding sync pipeline end to end.
+
 ---
 
 ## 🚀 Technologies Used
