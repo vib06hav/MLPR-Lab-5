@@ -138,6 +138,10 @@ This README line was added to validate the repo-understanding sync pipeline end 
 
 This second README update exists purely to validate snapshot-to-snapshot change understanding.
 
+## Upstream Expansion Validation Note
+
+This third README update exists to validate the upstream candidate-building and semantic planning stages.
+
 ---
 
 ## 🚀 Technologies Used
