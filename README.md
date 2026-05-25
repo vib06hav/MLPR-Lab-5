@@ -134,6 +134,10 @@ The workflow successfully identifies and clusters faces based on color features 
 
 This README line was added to validate the repo-understanding sync pipeline end to end.
 
+## Delta Validation Note
+
+This second README update exists purely to validate snapshot-to-snapshot change understanding.
+
 ---
 
 ## 🚀 Technologies Used
